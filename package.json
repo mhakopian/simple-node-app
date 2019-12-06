@@ -1,0 +1,25 @@
+{
+  "name": "simple-node-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhakopian/simple-node-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mhakopian/simple-node-app/issues"
+  },
+  "homepage": "https://github.com/mhakopian/simple-node-app#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jexia-sdk-js": "^4.2.4",
+    "node-fetch": "^2.6.0",
+    "ws": "^7.2.0"
+  }
+}
